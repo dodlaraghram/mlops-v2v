@@ -16,8 +16,8 @@
       workspaces {
        name = "Default Project"
     }
-  }
-}
+    }
+      }
      
 #
 #     # An example resource that does nothing.
