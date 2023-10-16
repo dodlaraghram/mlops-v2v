@@ -10,17 +10,17 @@ variable "tags" {
   description = "A mapping of tags which should be assigned to the Resource Group"
 }
 
-variable "prefix" {
-  type        = string
-  description = "Prefix for the module name"
-}
+#variable "prefix" {
+#  type        = string
+#  description = "Prefix for the module name"
+#  }
 
-variable "postfix" {
-  type        = string
-  description = "Postfix for the module name"
-}
+#variable "postfix" {
+#  type        = string
+#  description = "Postfix for the module name"
+#  }
 
-variable "env" {
-  type        = string
-  description = "Environment prefix"
-}
+#variable "env" {
+#  type        = string
+#  description = "Environment prefix"
+# }
